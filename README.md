@@ -1,4 +1,4 @@
-# Instalador do ZABBIX 6
+# Instalando o ZABBIX 6
 
 
 ### Removendo arquivos temporários antigos, se existirem
